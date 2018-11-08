@@ -1,2 +1,5 @@
 # DirectX 12 Multi-Adapter Sample
-Sample implementing explicit multi-adapter using DirectX 12. Showcases parallel rendering of ray-traced scene. For more details, please see https://software.intel.com/en-us/articles/multi-adapter-support-in-directx-12.
+
+This sample uses explicit, heterogeneous multi-adapter techniques in DirectX 12 to implement split-frame rendering of a ray-traced scene across two GPUs. For more details, please see https://software.intel.com/en-us/articles/multi-adapter-support-in-directx-12.
+
+![Screen shot](screenshot.png)
